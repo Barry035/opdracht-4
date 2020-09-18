@@ -1,0 +1,18 @@
+body { color:rgb(71, 55, 55);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.black-border {
+    border: 5px solid rgb(87, 67, 67);
+}
+
+#green-background { background-color: rgb(197, 176, 171);
+}
+
+#background-about { background-color: rgb(145, 131, 156);}
+
+#Bold { font-weight: Bold }
+
+#Size { font-size: 16px }
+
+
